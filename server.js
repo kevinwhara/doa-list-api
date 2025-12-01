@@ -177,7 +177,7 @@ app.get('/', (req, res) => {
       random: "/api/doa/acak",
       search: "/api/cari?q=keyword"
     },
-    documentation: "Gunakan endpoint di atas untuk mengakses koleksi doa-doa Islami"
+    documentation: "Gunakan endpoint di atas untuk mengakses koleksi doa-doa Islami. BTW yang bikin Kepin"
   });
 });
 
